@@ -1,21 +1,58 @@
 {
-        "TopLeft": "https://drive.google.com/uc?id=1-UkmCPIsesjuppbiD812fRA0BKcmJ6sQ&usp=sharing",
-        "TopMid": "https://drive.google.com/uc?id=dAYJxsCfglJx_6gXh34Lub_gDyzV0db6&usp=sharing",
-        "TopRight": "https://drive.google.com/uc?id=1xJ8rDf4aN6z5afpMKO70wpivFQwstHtS",
-        "MidLeft": "https://drive.google.com/uc?id=qxEYKHKCwDfUh47PYIANXY8dc9pEGWZR&usp=sharing",
-        "MidMid": "https://drive.google.com/uc?id=e4UaLhWCjQkOv9jPtexdFuFNPPkwyCXA&usp=sharing",
-        "MidRight": "https://drive.google.com/uc?id=XQvszOUQKpJdNGuZRLCOR4ETf-jCwooA&usp=sharing",
-        "BottomLeft": "https://drive.google.com/uc?id=vZDPI-5mSH53npyq2JKkWy42x25ut842&usp=sharing",
-        "BottomMid": "https://drive.google.com/uc?id=faWP8SOWKXCPJkNyUssqaTvHztOxEgXJ&usp=sharing",
-        "BottomRight": "https://drive.google.com/uc?id=RgPcWQ_1_4mS5e2xR6FECHJCezgm0jOs4&usp=sharing",
-        "FadeTopLeft": true,
-        "FadeTopMid": true,
-        "FadeTopRight": true,
-        "FadeMidLeft": true,
-        "FadeMidMid": true,
-        "FadeMidRight": true,
-        "FadeBottomLeft": false,
-        "FadeBottomMid": true,
-        "FadeBottomRight": true,
-        "TimeBeforeFadeAnimation": 10
+    "Images": [
+        {
+            "URL": "https://drive.google.com/uc?id=1-UkmCPIsesjuppbiD812fRA0BKcmJ6sQ",
+            "Pos": "TopLeft",
+            "Persist": true,
+            "FadeTime": 5
+        },
+        {
+            "URL": "https://drive.google.com/uc?id=1dAYJxsCfglJx_6gXh34Lub_gDyzV0db6",
+            "Pos": "TopMid",
+            "Persist": true,
+            "FadeTime": 5
+        },
+        {
+            "URL": "https://drive.google.com/uc?id=1xJ8rDf4aN6z5afpMKO70wpivFQwstHtS",
+            "Pos": "TopRight",
+            "Persist": true,
+            "FadeTime": 5
+        },
+        {
+            "URL": "https://drive.google.com/uc?id=1qxEYKHKCwDfUh47PYIANXY8dc9pEGWZR",
+            "Pos": "MidLeft",
+            "Persist": true,
+            "FadeTime": 5
+        },
+        {
+            "URL": "https://drive.google.com/uc?id=1e4UaLhWCjQkOv9jPtexdFuFNPPkwyCXA",
+            "Pos": "MidMid",
+            "Persist": true,
+            "FadeTime": 5
+        },
+        {
+            "URL": "https://drive.google.com/uc?id=1XQvszOUQKpJdNGuZRLCOR4ETf-jCwooA",
+            "Pos": "MidRight",
+            "Persist": true,
+            "FadeTime": 5
+        },
+        {
+            "URL": "https://drive.google.com/uc?id=1vZDPI-5mSH53npyq2JKkWy42x25ut842",
+            "Pos": "BottomLeft",
+            "Persist": false,
+            "FadeTime": 5
+        },
+        {
+            "URL": "https://drive.google.com/uc?id=1faWP8SOWKXCPJkNyUssqaTvHztOxEgXJ",
+            "Pos": "BottomMid",
+            "Persist": true,
+            "FadeTime": 5
+        },
+        {
+            "URL": "https://drive.google.com/uc?id=1RgPcWQ__4mS5e2xR6FECHJCezgm0jOs4",
+            "Pos": "BottomRight",
+            "Persist": true,
+            "FadeTime": 5
+        }
+    ]
 }
