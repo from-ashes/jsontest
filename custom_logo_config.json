@@ -1,0 +1,23 @@
+{
+    "CustomLogo": {
+        "TopLeft": "https://drive.google.com/uc?id=1-UkmCPIsesjuppbiD812fRA0BKcmJ6sQ&usp=sharing",
+        "TopMid": "https://drive.google.com/uc?id=dAYJxsCfglJx_6gXh34Lub_gDyzV0db6&usp=sharing",
+        "TopRight": "https://drive.google.com/uc?id=xJ8rDf4aN6z5afpMKO70wpivFQwstHtS",
+        "MidLeft": "https://drive.google.com/uc?id=qxEYKHKCwDfUh47PYIANXY8dc9pEGWZR&usp=sharing",
+        "MidMid": "https://drive.google.com/uc?id=e4UaLhWCjQkOv9jPtexdFuFNPPkwyCXA&usp=sharing",
+        "MidRight": "https://drive.google.com/uc?id=XQvszOUQKpJdNGuZRLCOR4ETf-jCwooA&usp=sharing",
+        "BottomLeft": "https://drive.google.com/uc?id=vZDPI-5mSH53npyq2JKkWy42x25ut842&usp=sharing",
+        "BottomMid": "https://drive.google.com/uc?id=faWP8SOWKXCPJkNyUssqaTvHztOxEgXJ&usp=sharing",
+        "BottomRight": "https://drive.google.com/uc?id=RgPcWQ_1_4mS5e2xR6FECHJCezgm0jOs4&usp=sharing",
+        "FadeTopLeft": true,
+        "FadeTopMid": true,
+        "FadeTopRight": true,
+        "FadeMidLeft": true,
+        "FadeMidMid": true,
+        "FadeMidRight": true,
+        "FadeBottomLeft": false,
+        "FadeBottomMid": true,
+        "FadeBottomRight": true,
+        "TimeBeforeFadeAnimation": 10
+    }
+}
