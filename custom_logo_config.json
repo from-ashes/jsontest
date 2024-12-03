@@ -5,6 +5,12 @@
             "Pos": "BottomLeft",
             "Persist": true,
             "FadeTime": 5
+        },
+        {
+            "URL": "https://drive.google.com/thumbnail?id=10lDPsjcTDlvFOIAyKFhDD-sjj4aHfGyW",
+            "Pos": "TopLeft",
+            "Persist": false,
+            "FadeTime": 5
         }
     ]
 }
