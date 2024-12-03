@@ -7,10 +7,10 @@
             "FadeTime": 5
         },
         {
-            "URL": "https://drive.google.com/thumbnail?id=10lDPsjcTDlvFOIAyKFhDD-sjj4aHfGyW",
-            "Pos": "TopLeft",
+            "URL": "https://drive.google.com/uc?id=1WFfRtZSlnz3af9lQy5se86PEXFjckYhN",
+            "Pos": "TopMid",
             "Persist": false,
-            "FadeTime": 10
+            "FadeTime": 15
         }
     ]
 }
