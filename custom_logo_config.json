@@ -1,16 +1,58 @@
 {
-    "Images": [
-        {
-            "URL": "https://drive.google.com/thumbnail?id=10lDPsjcTDlvFOIAyKFhDD-sjj4aHfGyW",
-            "Pos": "BottomLeft",
-            "Persist": true,
-            "FadeTime": 5
-        },
-        {
-            "URL": "https://drive.google.com/uc?id=1WFfRtZSlnz3af9lQy5se86PEXFjckYhN",
-            "Pos": "TopMid",
-            "Persist": false,
-            "FadeTime": 15
-        }
-    ]
+        "Images": [
+           {
+               "URL": "https://aras-ark.github.io/webassets/images/asm/panels/corner_logo.png",
+               "Pos": "TopLeft",
+               "Persist": true,
+               "FadeTime": 5
+           },
+           {
+               "URL": "https://aras-ark.github.io/webassets/images/asm/panels/corner_logo.png",
+               "Pos": "TopMid",
+               "Persist": true,
+               "FadeTime": 5
+           },
+           {
+               "URL": "https://aras-ark.github.io/webassets/images/asm/panels/corner_logo.png",
+               "Pos": "TopRight",
+               "Persist": true,
+               "FadeTime": 5
+           },
+           {
+               "URL": "https://aras-ark.github.io/webassets/images/asm/panels/LeftPanel_513w592h.png",
+               "Pos": "MidLeft",
+               "Persist": true,
+               "FadeTime": 5
+           },
+           {
+               "URL": "https://aras-ark.github.io/webassets/images/asm/panels/MiddlePanel_513w592h.png",
+               "Pos": "MidMid",
+               "Persist": true,
+               "FadeTime": 5
+           },
+           {
+               "URL": "https://aras-ark.github.io/webassets/images/asm/panels/RightPanel_513w592h.png",
+               "Pos": "MidRight",
+               "Persist": true,
+               "FadeTime": 5
+           },
+           {
+               "URL": "https://aras-ark.github.io/webassets/images/asm/panels/corner_logo.png",
+               "Pos": "BottomLeft",
+               "Persist": false,
+               "FadeTime": 5
+           },
+           {
+               "URL": "https://aras-ark.github.io/webassets/images/asm/panels/corner_logo.png",
+               "Pos": "BottomMid",
+               "Persist": true,
+               "FadeTime": 5
+           },
+           {
+               "URL": "",
+               "Pos": "BottomRight",
+               "Persist": true,
+               "FadeTime": 5
+           }
+        ]
 }
